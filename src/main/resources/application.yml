@@ -2,7 +2,7 @@ mj:
   discord:
     guild-id: 1090250254236000326
     channel-id: 1090250254236000329
-    user-token: MTA5MDI0OTI1Njc4NDM2NzY2Ng.GIxFKS.baOmmXXvms8FAB-_dGCYvZokYvyqDCWXgTSFOQ
+    user-token: 'MTA5MDI0OTI1Njc4NDM2NzY2Ng.GumfBG.Km1y8pkeA7CqdgzH2dW1ZiSZLDnflASTtBhwXA'
     user-wss: true
     user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
     id-prefix: "["
